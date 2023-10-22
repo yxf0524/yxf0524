@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yxf0524
-- 🌱 I’m currently learning ...
-- ![39E16115](https://github.com/yxf0524/yxf0524/assets/139856458/1a5adcb2-4590-4942-9054-ab3f71977f13)
+- Hi, I’m @yxf0524 ![056870DE](https://github.com/yxf0524/yxf0524/assets/139856458/c28dfce7-fa37-473b-b316-42e80ca96c28)
+
+- ![05691BE4](https://github.com/yxf0524/yxf0524/assets/139856458/d1d6b12a-f628-45df-9260-2c25e7b2815c) I’m currently learning ...
 
 
 <!---
